@@ -6,7 +6,7 @@ _Custom Tag and Tooltip Programming Exercise!_
 
 For this exercise, I created a custom tag and tooltip hover similar to [StackOverflow](https://stackoverflow.com).
 
-# :three_button_mouse: Functionality
+# 🖱 Functionality
 
 Each question has a set of tags below it. The look and functionality of the final product should be as close to StackOverflow as possible. Some key features:
 
