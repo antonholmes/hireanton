@@ -1,4 +1,4 @@
-# [Hire Anton Holmes](https://antonholmes.herokuapp.com/)
+# [Hire Anton Holmes](https://antonholmes.github.io/hireanton/)
 
 _Custom Tag and Tooltip Programming Exercise!_
 
@@ -30,4 +30,4 @@ For the front-end, modular components were built and styled using the following:
 
 # :satellite: Deployment
 
-Hire Anton Holmes was deployed using Heroku, and is accessible through: https://antonholmes.herokuapp.com
+Hire Anton Holmes was deployed using Heroku, and is accessible through: https://antonholmes.github.io/hireanton/

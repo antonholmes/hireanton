@@ -10,7 +10,6 @@ html {
 }
 
 body {
-  margin: 0;
   min-height: 100vh;
   background: #fff;
 }
@@ -46,13 +45,13 @@ nav ul {
   margin: 0;
   padding-left: 1.5em;
   display: flex;
-  justify-content: inherit;
+  justify-content: left;
 }
 
 .cool > li {
   position: relative;
   display: flex;
-  justify-content: inherit;
+  justify-content: left;
 }
 
 .dropdown {
@@ -82,12 +81,12 @@ nav ul {
   position: absolute;
   background: #fff;
   border-radius: 4px;
-  box-shadow: 0 50px 100px rgba(50, 50, 93, 0.1),
+  box-shadow: 0 50px 100px rgba(71, 71, 73, 0.1),
     0 15px 35px rgba(50, 50, 93, 0.15), 0 5px 15px rgba(0, 0, 0, 0.1);
   transition: all 0.3s, opacity 0.1s, transform 0.2s;
   transform-origin: 50% 0;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   opacity: 0;
 }
 
