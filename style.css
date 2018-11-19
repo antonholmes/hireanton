@@ -20,6 +20,10 @@ h2 {
   padding-top: 0.8em;
 }
 
+h1 {
+  color: #005999;
+}
+
 nav {
   position: relative;
   perspective: 600px;
@@ -28,11 +32,11 @@ nav {
 .cool > li > a {
   color: #39739d;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 12px;
   background: #e1ecf4;
-  padding: 10px 20px;
+  padding: 5px 10px;
   display: inline-block;
-  margin: 20px;
+  margin: 5px;
   border-radius: 5px;
 }
 
@@ -41,13 +45,13 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
+  justify-content: inherit;
 }
 
 .cool > li {
   position: relative;
   display: flex;
-  justify-content: center;
+  justify-content: inherit;
 }
 
 .dropdown {
