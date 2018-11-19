@@ -8,7 +8,7 @@ function handleEnter() {
     () =>
       this.classList.contains('trigger-enter') &&
       this.classList.add('trigger-enter-active'),
-    250
+    150
   );
   background.classList.add('open');
 
